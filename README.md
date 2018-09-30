@@ -1,1 +1,4 @@
-hello
+### hello
+#### test
+
+#### [test inner](./inner.md)
